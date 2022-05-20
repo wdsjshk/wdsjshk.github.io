@@ -5,6 +5,8 @@
 - [The Consulting Pipeline Podcast](https://philipmorganconsulting.com/podcast/cpp-116-cheryl-janis-updates-us-on-her-specialization-journey/)
 - [Github Pages](https://pages.github.com/)
 
+{% include youtubePlayer.html id="nmJOuTAk09g" %}
+
 ## Curriculum
 1. Stop Doing Things You're Not Passionate About
 2. Biohacking the Brain to Compensate for Imbalances Caused by ADHD Medication
