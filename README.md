@@ -4,6 +4,8 @@
 - [Getting Started With Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [The Consulting Pipeline Podcast](https://philipmorganconsulting.com/podcast/cpp-116-cheryl-janis-updates-us-on-her-specialization-journey/)
 - [Github Pages](https://pages.github.com/)
+- [Osint Formatting Tree](https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json)
+
 
 {% include youtubePlayer.html id="nmJOuTAk09g" %}
 
