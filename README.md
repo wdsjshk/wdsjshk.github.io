@@ -3,6 +3,7 @@
 ## References
 - [Getting Started With Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [The Consulting Pipeline Podcast](https://philipmorganconsulting.com/podcast/cpp-116-cheryl-janis-updates-us-on-her-specialization-journey/)
+- [Github Pages](https://pages.github.com/)
 
 ## Curriculum
 1. Stop Doing Things You're Not Passionate About
